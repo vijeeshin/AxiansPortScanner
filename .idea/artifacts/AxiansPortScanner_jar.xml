@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AxiansPortScanner:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AxiansPortScanner_jar</output-path>
+    <root id="archive" name="AxiansPortScanner.jar">
+      <element id="module-output" name="AxiansPortScanner" />
+    </root>
+  </artifact>
+</component>
